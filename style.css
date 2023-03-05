@@ -13,6 +13,7 @@ h1{
 section{
     display: flex;
     padding-left: 5%;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 100%;
@@ -20,7 +21,7 @@ section{
 .half-width img{
     width: 90%;
 }
-.link-btn{
+.btn-link{
     text-decoration: none;
     /* background-color: orange; */
     background-image: linear-gradient(orange,tomato);
@@ -31,4 +32,9 @@ section{
 .top-banner{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
+}
+.big-dream{
+    background-image: url(./img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }

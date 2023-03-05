@@ -10,16 +10,15 @@ h1{
 .author{
     color:orange;
 }
-.container{
+section{
     display: flex;
-
     padding-left: 5%;
 }
 .half-width{
     width: 100%;
 }
 .half-width img{
-    width: 80%;
+    width: 90%;
 }
 .link-btn{
     text-decoration: none;
